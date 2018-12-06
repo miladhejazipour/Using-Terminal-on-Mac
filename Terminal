@@ -5,3 +5,5 @@ pwd     ---> show the current path
 touch filename.index   --> create the file
 open filename.index ---> open the file
 rm filename.index    --> delete the file
+python --version --> show the current python version
+alias python=python3   --> Change the current version of python
