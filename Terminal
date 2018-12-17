@@ -8,3 +8,5 @@ rm filename.index    --> delete the file
 python --version --> show the current python version
 alias python=python3   --> Change the current version of python
 mkdir foldername --> Create a folder
+pip3 install django -->install django
+python3 --> Run Python3
