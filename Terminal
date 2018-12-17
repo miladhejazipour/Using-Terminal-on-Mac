@@ -14,3 +14,4 @@ pip install --upgrade pip --> To update the pip version
 pip3 install django==2.1.4 -->install django version number 2.1.4
 django-admin.py startproject nameoftheproject --> Create a django project
 python3 manage.py runserver ---> To run a server to check whether it works or not on the web browser type localhost:8000
+python3 manage.py startapp adoption --> Create a app which here the name of the app is adoption
