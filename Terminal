@@ -8,5 +8,9 @@ rm filename.index    --> delete the file
 python --version --> show the current python version
 alias python=python3   --> Change the current version of python
 mkdir foldername --> Create a folder
-pip3 install django -->install django
 python3 --> Run Python3
+
+pip install --upgrade pip --> To update the pip version
+pip3 install django==2.1.4 -->install django version number 2.1.4
+django-admin.py startproject nameoftheproject --> Create a django project
+
